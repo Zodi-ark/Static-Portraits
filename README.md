@@ -1,4 +1,4 @@
-# Final Fantasy Tactics: The Ivalice Chronicles Static Portraits
+# FFT: The Ivalice Chronicles Static Portraits
 ![title](https://github.com/user-attachments/assets/42e0011c-226d-42ed-afb1-1361d06652ec)
 
 <div align="center">
