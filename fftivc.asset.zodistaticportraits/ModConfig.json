@@ -1,0 +1,38 @@
+{
+  "ModId": "fftivc.asset.zodistaticportraits",
+  "ModName": "Static Portraits",
+  "ModAuthor": "Zodiark",
+  "ModVersion": "1.0.0",
+  "ModDescription": "No more blinking, no more talking.",
+  "ModDll": "",
+  "ModIcon": "preview.png",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [
+    "GUI/HUD",
+    "Texture"
+  ],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "fftivc.asset.zodistaticportraits.ReleaseMetadata.json",
+  "PluginData": {
+    "GitHubRelease": {
+      "UserName": "Zodi-ark",
+      "RepositoryName": "Final-Fantasy-Tactics-The-Ivalice-Chronicles-Static-Portraits",
+      "UseReleaseTag": true,
+      "AssetFileName": "Mod.zip"
+    }
+  },
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "fftivc.utility.modloader"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "fft_enhanced.exe"
+  ],
+  "ProjectUrl": "https://github.com/Zodi-ark"
+}
