@@ -1,4 +1,8 @@
+<div align="center">
+
 # FFT: The Ivalice Chronicles Static Portraits
+
+</div>
 
 <div align="center">
   
