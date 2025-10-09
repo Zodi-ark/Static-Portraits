@@ -1,5 +1,7 @@
 # FFT: The Ivalice Chronicles Static Portraits
+
 <div align="center">
+  
 ![title](https://github.com/user-attachments/assets/42e0011c-226d-42ed-afb1-1361d06652ec)
 </div>
 
