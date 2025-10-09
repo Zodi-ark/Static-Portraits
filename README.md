@@ -12,7 +12,7 @@
 
 <div align="center">
 
-__*<p>Removes blinking and talking from portraits exactly as all previous versions of FFT. 
+__*<p>Removes blinking and talking animations from portraits. 
 <br></p>*__
 
 </div>
