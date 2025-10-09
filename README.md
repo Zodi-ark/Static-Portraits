@@ -4,4 +4,4 @@
 <div align="center">
 
 __*<p>Removes blinking and talking from portraits exactly as all previous versions of FFT. 
-<br>Community contributions, edits, and forks are strongly encouraged!</p>*__
+</p>*__
