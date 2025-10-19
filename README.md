@@ -20,4 +20,4 @@ __*<p>Removes blinking and talking animations from portraits.
 # Installation
 - Install [Reloaded II Mod Manager](https://github.com/Reloaded-Project/Reloaded-II/releases)
 - Install [FFT: The Ivalice Chronicles Mod Loader](https://www.nexusmods.com/finalfantasytacticstheivalicechronicles/mods/4?tab=files) to Reloaded II
-- Install [FFT: The Ivalice Chronicles Static Portraits](https://github.com/Zodi-ark/Final-Fantasy-Tactics-The-Ivalice-Chronicles-Static-Portraits/releases/tag/1.0.0) to Reloaded II
+- Install [Static Portraits](https://github.com/Zodi-ark/Static-Portraits/releases) to Reloaded II
