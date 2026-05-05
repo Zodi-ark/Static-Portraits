@@ -6,7 +6,7 @@
 
 <div align="center">
   
-![title](https://github.com/user-attachments/assets/42e0011c-226d-42ed-afb1-1361d06652ec)
+![title](https://github.com/user-attachments/assets/ee43a1d6-f668-408f-9418-c92f2d34dffd)
 </div>
 
 
