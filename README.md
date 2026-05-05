@@ -12,7 +12,7 @@
 
 <div align="center">
 
-__*<p>Removes blinking and talking animations from portraits. 
+__*<p>Removes blinking and talking animations. 
 <br></p>*__
 
 </div>
