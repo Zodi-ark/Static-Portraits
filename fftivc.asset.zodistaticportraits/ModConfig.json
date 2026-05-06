@@ -3,7 +3,7 @@
   "ModName": "Static Portraits",
   "ModAuthor": "Zodiark",
   "ModVersion": "1.0.0",
-  "ModDescription": "No more blinking, no more talking.",
+  "ModDescription": "Removes blinking and talking animations.",
   "ModDll": "",
   "ModIcon": "preview.png",
   "ModR2RManagedDll32": "",
